@@ -117,9 +117,7 @@ echo "Installing commandline apps..."
 brew install \
 git \
 z \
-fnm \
-kubectl \
-helm
+fnm
 
 echo "Installing Browsers..."
 brew install --appdir="/Applications" --cask arc
@@ -134,15 +132,15 @@ brew install --appdir="/Applications" --cask microsoft-excel
 brew install --appdir="/Applications" --cask microsoft-powerpoint
 
 echo "Installing Other apps..."
-brew install --appdir="/Applications" --cask alfred
-brew install --appdir="/Applications" --cask authy
 brew install --appdir="/Applications" --cask diffmerge
-brew install --appdir="/Applications" --cask evernote
-brew install --appdir="/Applications" --cask franz
 brew install --appdir="/Applications" --cask hyper
+brew install --appdir="/Applications" --cask kindle
 brew install --appdir="/Applications" --cask licecap
+brew install --appdir="/Applications" --cask origin
 brew install --appdir="/Applications" --cask postman
 brew install --appdir="/Applications" --cask sourcetree
-brew install --appdir="/Applications" --cask spotify
+brew install --appdir="/Applications" --cask steam
+brew install --appdir="/Applications" --cask transmission
+brew install --appdir="/Applications" --cask windscribe
 brew install --appdir="/Applications" --cask visual-studio-code
 brew install --appdir="/Applications" --cask vlc

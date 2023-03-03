@@ -3,5 +3,5 @@
 ## Running
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/bartlomn/macsetup/main/setup.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Kesse8401/macsetup/main/setup.sh)"
 ```
